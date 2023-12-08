@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Liliana.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Javascript in Softuni.
 - 💞️ I’m looking to collaborate on new projects.
 
 <!---
